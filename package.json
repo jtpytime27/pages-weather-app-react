@@ -2,7 +2,7 @@
   "name": "weather-app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jtpytime27.github.io/weather-app-react",
+  "homepage": "https://jtpytime27.github.io/pages-weather-app-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
