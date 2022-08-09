@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pages-weather-app-react/static/css/main.c6142839.css",
+    "main.js": "/pages-weather-app-react/static/js/main.640fabaf.js",
+    "static/js/787.c9eb4f8d.chunk.js": "/pages-weather-app-react/static/js/787.c9eb4f8d.chunk.js",
+    "static/media/snowman.jpg": "/pages-weather-app-react/static/media/snowman.e56cd7aeff6015554f1b.jpg",
+    "static/media/warmweather.jpg": "/pages-weather-app-react/static/media/warmweather.a29131c4cb01fe343044.jpg",
+    "index.html": "/pages-weather-app-react/index.html",
+    "main.c6142839.css.map": "/pages-weather-app-react/static/css/main.c6142839.css.map",
+    "main.640fabaf.js.map": "/pages-weather-app-react/static/js/main.640fabaf.js.map",
+    "787.c9eb4f8d.chunk.js.map": "/pages-weather-app-react/static/js/787.c9eb4f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6142839.css",
+    "static/js/main.640fabaf.js"
+  ]
+}
